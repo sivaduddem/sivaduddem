@@ -14,4 +14,6 @@
   <a href="https://www.linkedin.com/in/sivaduddempudi">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/sivaduddem">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://sivaduddem.github.io/">Portfolio</a>
 </p>
