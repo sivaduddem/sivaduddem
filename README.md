@@ -19,6 +19,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sivaduddem&show_icons=true&hide_border=true&bg_color=F6E7C6&title_color=8A5A2B&icon_color=C47B2B&text_color=3A2415" alt="GitHub stats for sivaduddem">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaduddem&layout=compact&hide_border=true&bg_color=F6E7C6&title_color=8A5A2B&text_color=3A2415&langs_count=5&exclude_repo=SampleRobot,Testbeds,vision-ball-2021" alt="Most used languages on GitHub">
+  <img src="https://github-stats-extended.vercel.app/api?username=sivaduddem&amp;show_icons=true&amp;hide_border=true&amp;bg_color=F6E7C6&amp;title_color=8A5A2B&amp;icon_color=C47B2B&amp;text_color=3A2415" alt="GitHub stats for sivaduddem">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sivaduddem&amp;layout=compact&amp;hide_border=true&amp;bg_color=F6E7C6&amp;title_color=8A5A2B&amp;text_color=3A2415&amp;langs_count=5&amp;exclude_repo=SampleRobot,Testbeds,vision-ball-2021" alt="Most used languages on GitHub">
 </p>
